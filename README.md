@@ -2,8 +2,6 @@
 
 Using blockchain to implement chain of custody to preserve forensic evidence records.
 
-> Phase 1 : Completed
-> Phase 2 : Coming Soon
 
 A Chain of Custody form keeps track of three pieces of important information (in addition to all the details that uniquely identify the specific piece of evidence)
 
