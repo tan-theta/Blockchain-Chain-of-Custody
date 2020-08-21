@@ -2,6 +2,7 @@
 
 Using blockchain to implement chain of custody to preserve forensic evidence records.
 
+The Chain of Custody form is a critical element to a forensic investigation because examiners use it to record the history of the evidence from the time it is found until the case is closed or goes to court. By keeping this record, examiners can show that the integrity of the evidence has been preserved and not open to compromise. And in the unfortunate event that evidence does become contaminated, the chain of custody will clearly identify the responsible individual.
 
 A Chain of Custody form keeps track of three pieces of important information (in addition to all the details that uniquely identify the specific piece of evidence)
 
